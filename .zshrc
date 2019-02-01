@@ -48,7 +48,7 @@ HIST_STAMPS="yyyy/mm/dd"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-syntax-highlighting composer brew npm nvm node pip gem python osx heroku redis-cli)
+plugins=(git zsh-syntax-highlighting composer brew node python)
 
 # User configuration
 
