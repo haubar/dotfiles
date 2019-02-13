@@ -89,7 +89,7 @@ export PGDATA="/usr/local/var/postgres"
 
 alias phpunit="vendor/bin/phpunit"
 
-alias vim="mvim"
+alias vim="vim"
 
 #source ~/.nvm/nvm.sh
 
